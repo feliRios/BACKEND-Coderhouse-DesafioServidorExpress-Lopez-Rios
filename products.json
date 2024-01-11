@@ -52,5 +52,41 @@
     "thumbnail": "imagen.com",
     "code": 805,
     "stock": 5
+  },
+  {
+    "id": 7,
+    "title": "Mousepad RGB",
+    "description": "Un Mousepad rgb",
+    "price": 111,
+    "thumbnail": "imagen.com",
+    "code": 806,
+    "stock": 5
+  },
+  {
+    "id": 8,
+    "title": "Lavarropas",
+    "description": "Un lavarropas",
+    "price": 222,
+    "thumbnail": "imagen.com",
+    "code": 807,
+    "stock": 5
+  },
+  {
+    "id": 9,
+    "title": "Hornito electrico",
+    "description": "Un hornito electrico",
+    "price": 333,
+    "thumbnail": "imagen.com",
+    "code": 808,
+    "stock": 5
+  },
+  {
+    "id": 10,
+    "title": "Auriculares wireless",
+    "description": "Unos auriculares inalambricos",
+    "price": 444,
+    "thumbnail": "imagen.com",
+    "code": 809,
+    "stock": 5
   }
 ]

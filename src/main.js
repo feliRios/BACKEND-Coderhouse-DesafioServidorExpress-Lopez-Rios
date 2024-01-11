@@ -8,7 +8,7 @@ const app = express();
 
 const PORT = 8080;
 
-// Agregado de algunos productos de prueba
+// Lineas utilizadas para crear los productos
 
 // (async () => {
 //   try {
@@ -18,6 +18,10 @@ const PORT = 8080;
 //     await pm.addProduct("Remera", "Una remera", 987, "imagen.com", 803, 5);
 //     await pm.addProduct("Mouse wireless", "Un mouse inalambrico", 654, "imagen.com", 804, 5);
 //     await pm.addProduct("Teclado mecanico", "Un teclado mecanico", 321, "imagen.com", 805, 5);
+//     await pm.addProduct("Mousepad RGB", "Un Mousepad rgb", 111, "imagen.com", 806, 5);
+//     await pm.addProduct("Lavarropas", "Un lavarropas", 222, "imagen.com", 807, 5);
+//     await pm.addProduct("Hornito electrico", "Un hornito electrico", 333, "imagen.com", 808, 5);
+//     await pm.addProduct("Auriculares wireless", "Unos auriculares inalambricos", 444, "imagen.com", 809, 5);
 //   } catch(err) {
 //     console.log("Hubo un error", err);
 //   }
