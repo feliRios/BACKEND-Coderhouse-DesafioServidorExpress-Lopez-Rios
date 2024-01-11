@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "title": "Microondas",
+    "description": "Un microondas",
+    "price": 123,
+    "thumbnail": "imagen.com",
+    "code": 800,
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "title": "TV",
+    "description": "Una TV",
+    "price": 456,
+    "thumbnail": "imagen.com",
+    "code": 801,
+    "stock": 5
+  },
+  {
+    "id": 3,
+    "title": "Pantalon",
+    "description": "Un lompa",
+    "price": 789,
+    "thumbnail": "imagen.com",
+    "code": 802,
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "title": "Remera",
+    "description": "Una remera",
+    "price": 987,
+    "thumbnail": "imagen.com",
+    "code": 803,
+    "stock": 5
+  },
+  {
+    "id": 5,
+    "title": "Mouse wireless",
+    "description": "Un mouse inalambrico",
+    "price": 654,
+    "thumbnail": "imagen.com",
+    "code": 804,
+    "stock": 5
+  },
+  {
+    "id": 6,
+    "title": "Teclado mecanico",
+    "description": "Un teclado mecanico",
+    "price": 321,
+    "thumbnail": "imagen.com",
+    "code": 805,
+    "stock": 5
+  }
+]
